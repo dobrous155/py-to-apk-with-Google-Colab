@@ -1,5 +1,4 @@
-# .py-to-.exe-Google-Colab
-
+# py to apk with Google Colab
 This repository is for those who are having trouble compiling .py files to .apk files.
 
 The .py-to-.exe-Google-Colab/Compile/ path contains the Compile.bat file.
