@@ -11,3 +11,5 @@ Then just follow the instructions.
 After executing the instructions from the .py-to-.exe-Google-Colab/Compile/Source/README.txt file, the following file will be created in the Google Colab repository.
 
 This code was created by stackoverflow forum user Moses B in the third answer to the question at https://stackoverflow.com/questions/75913006/locate-package-libffi6-kivy-app-to-apk-colab he posted a link to the file Copy of Kivy App To APK (https://colab.research.google.com/drive/11wLisDBglKDLZlSHydoQtSEcUTQXhyJ-#scrollTo=sbL2gpx8HZ7t), I just edited this file.
+
+These instructions are current as of 09/01/2023.
