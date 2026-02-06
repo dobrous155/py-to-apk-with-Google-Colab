@@ -13,13 +13,13 @@ This repository provides a streamlined solution for developers encountering diff
    - Note for Linux users: You can use an online unzip tool if you prefer not to use the terminal.
 
 3. LOCATE THE Compile.bat:
-   - Navigate to the newly extracted folder: py-to-apk-with-Google-Colab/Compile/
+   - Navigate to the newly extracted folder: py-to-apk-with-Google-Colab-main/Compile/
 
 --- EXECUTION ---
 
 4. RUN THE Compile.bat:
    - Execute the "Compile.bat" file.
-   - This script will automatically open the site https://colab.research.google.com/ and launch the local instruction file: py-to-apk-with-Google-Colab/Compile/Source/README.txt
+   - This script will automatically open the site https://colab.research.google.com/ and launch the local instruction file: py-to-apk-with-Google-Colab-main/Compile/Source/README.txt
    - Note for Linux users: Since the automated script is designed for Windows, Linux users (like myself) will need to perform this step manually.
 
 5. FOLLOW INSTRUCTIONS:
